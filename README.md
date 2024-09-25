@@ -22,6 +22,10 @@ sqdsqdsvbf
 
 
 :x
-f
-cps,d
-feature1
+<<<<<<< HEAD
+
+
+
+=======
+Modifié dans la branche feature1
+>>>>>>> DEV
